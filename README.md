@@ -9,15 +9,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mp28jam28&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🎓 Education
-**California State University, Fullerton**
-`B.S. Computer Science — Cybersecurity Concentration 🎓📜` *Expected May 2026*
-> Artificial Intelligence · File Structures & Database Systems · Web Security · Network Security · Cryptography · Operating Systems · Software Engineering · Computer Communications   
 
-**Orange Coast College**
-`A.S. Computer Science & Mathematics` · Completed May 2024
-
----
 
 ## 🛠️ Projects
 
@@ -32,7 +24,6 @@ A context-aware, zero-knowledge secure file sharing platform where the server ne
 - Authoring technical documentation including system architecture, ERD diagrams, and module-level specs to support team onboarding and development handoffs
 
 - `Python` `Flask` `PostgreSQL` `psycopg2` `GitHub` `Jira` `Confluence`
-
 ---
 ### 💬 Secure Real-Time Chat Application
 `Completed May 2025` · [View on GitHub](https://github.com/mp28jam28/Web-Security-Secure-Chat)
