@@ -25,6 +25,18 @@ A context-aware, zero-knowledge secure file sharing platform where the server ne
 
 - `Python` `Flask` `PostgreSQL` `psycopg2` `GitHub` `Jira` `Confluence`
 ---
+
+### 😴 StudentSiesta Sleep Tracker
+`In Progress — Expected May 2026` [View on GitHub](https://github.com/mp28jam28/StudentSiesta-Sleep-Tracker)
+
+
+To resolve one of the most common health crisises: lack of sleep. This is a cloud-native sleep tracking application catered to students.
+- Developing a responsive frontend for intuitive data entry and visualization across devices
+- Utilizing the Google Calendar API to make predictions on sleep patterns based on semester-long timelines
+- Leveraging Google Cloud to store analyze sleep data, support daily logging features, historical insights, and sleep quality metrics
+
+- `Python` `HTML` `CSS` `Javascript` `Google Cloud` `Google Cloud SQL` `Google Cloud Storage` 
+---
 ### 💬 Secure Real-Time Chat Application
 `Completed May 2025` · [View on GitHub](https://github.com/mp28jam28/Web-Security-Secure-Chat)
 
