@@ -14,7 +14,7 @@
 ## 🛠️ Projects
 
 ### 🔒 Talus Secure File Sharing System
-`In Progress — Expected May 2026` [View on GitHub](https://github.com/Talus-Cybersecurity/Talus-File-Sharing-Tool)
+`Spring 2026` [View on GitHub](https://github.com/Talus-Cybersecurity/Talus-File-Sharing-Tool)
 
 
 A context-aware, zero-knowledge secure file sharing platform where the server never accesses plaintext data.
@@ -27,7 +27,7 @@ A context-aware, zero-knowledge secure file sharing platform where the server ne
 ---
 
 ### 😴 StudentSiesta Sleep Tracker
-`In Progress — Expected May 2026` [View on GitHub](https://github.com/mp28jam28/StudentSiesta-Sleep-Tracker)
+`Spring 2026` [View on GitHub](https://github.com/mp28jam28/StudentSiesta-Sleep-Tracker)
 
 
 To resolve one of the most common health crisises: lack of sleep. This is a cloud-native sleep tracking application catered to students.
@@ -38,7 +38,7 @@ To resolve one of the most common health crisises: lack of sleep. This is a clou
 - `Python` `HTML` `CSS` `Javascript` `Google Cloud` `Google Cloud SQL` `Google Cloud Storage` 
 ---
 ### 💬 Secure Real-Time Chat Application
-`Completed May 2025` · [View on GitHub](https://github.com/mp28jam28/Web-Security-Secure-Chat)
+`Spring 2025` · [View on GitHub](https://github.com/mp28jam28/Web-Security-Secure-Chat)
 
 A full-stack secure messaging platform with end-to-end encryption and real-time communication.
 
