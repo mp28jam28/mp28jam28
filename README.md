@@ -13,9 +13,11 @@
 
 ## 🛠️ Projects
 
-### 🔒 Talus Secure File Sharing System
-`Spring 2026` [View on GitHub](https://github.com/Talus-Cybersecurity/Talus-File-Sharing-Tool)
 
+### 🔒 Talus Secure File Sharing System
+`Spring 2026` [View on GitHub](https://github.com/Talus-Cybersecurity/Talus-File-Sharing-Tool) 
+
+>  **[![1st Place](https://img.shields.io/badge/🏆%201st%20Place-CSUF%20CS%20Showcase-gold?style=flat-square)](https://example.com/showcase-link) — [CSUF Computer Science Showcase](https://example.com/showcase-link)** 
 
 A context-aware, zero-knowledge secure file sharing platform where the server never accesses plaintext data.
 
