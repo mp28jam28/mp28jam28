@@ -17,6 +17,9 @@
 ### 🔒 Talus Secure File Sharing System 🏆 **1st Place** — [CSUF Computer Science Showcase](https://sites.google.com/fullerton.edu/cs-showcase-and-alumni/home)
 `Spring 2026` [View on GitHub](https://github.com/Talus-Cybersecurity/Talus-File-Sharing-Tool) 
 
+<img width="712" height="501" alt="06BA612D-70EA-4361-9C2E-B2048D1803E7" src="https://github.com/user-attachments/assets/ae9db140-d0a1-4d30-9502-fb8cc2d25772" />
+
+
 A context-aware, zero-knowledge secure file sharing platform where the server never accesses plaintext data.
 
 - Built backend database logic handling user registration, file storage, access control, and activity logging using PostgreSQL
